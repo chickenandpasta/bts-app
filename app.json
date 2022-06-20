@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Bus e-Ticketing System (BTS)",
+    "slug": "the-bts-app",
+    "version": "1.0.6",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon2.png",
+    "splash": {
+      "image": "./app/assets/splash1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E12318"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "bts.bus_eticketing_system",
+      "versionCode": 7,
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/adaptive-icon1.png",
+        "backgroundColor": "#E12318"
+      }
+    },
+    "web": {
+      "favicon": "./app/assets/favicon.png"
+    },
+    "description": "Monitor your card balance and transaction history on the cashless payment system for distance-based fares using the BTS app."
+  }
+}

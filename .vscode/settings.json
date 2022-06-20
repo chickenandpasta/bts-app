@@ -1,0 +1,17 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "185.27.134.149",
+      "port": 21,
+      "driver": "MySQL",
+      "name": "btSQL",
+      "database": "epiz_31507374_BTS",
+      "username": "epiz_31507374",
+      "password": ""
+    }
+  ]
+}
